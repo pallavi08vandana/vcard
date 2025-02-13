@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pallavi08vandana/proposal-card.git/static/css/main.1b5186ea.css",
+    "main.js": "/pallavi08vandana/proposal-card.git/static/js/main.2aeafec3.js",
+    "index.html": "/pallavi08vandana/proposal-card.git/index.html",
+    "main.1b5186ea.css.map": "/pallavi08vandana/proposal-card.git/static/css/main.1b5186ea.css.map",
+    "main.2aeafec3.js.map": "/pallavi08vandana/proposal-card.git/static/js/main.2aeafec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5186ea.css",
+    "static/js/main.2aeafec3.js"
+  ]
+}
